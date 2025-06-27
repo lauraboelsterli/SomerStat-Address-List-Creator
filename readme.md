@@ -3,6 +3,7 @@
 This is a template repo for SomerStat
 
 ## Description
+Zoom into Somerville and download the master address dataset (the site: https://massgis.maps.arcgis.com/apps/View/index.html?appid=4743bdb1af9b4787978f4b283a9913ba)
 
 Template repositories are examples that can be copied when new repositories are added. This can help simplify setting up a repository and remembering / executing the steps it takes to make things good. We can have a few templates, one for R projects, etc.
 
